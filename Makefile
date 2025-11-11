@@ -6,7 +6,7 @@
 #    By: yoabied <yoabied@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/11/03 20:50:13 by yoabied           #+#    #+#              #
-#    Updated: 2025/11/11 12:24:38 by yoabied          ###   ########.fr        #
+#    Updated: 2025/11/11 12:44:30 by yoabied          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -62,3 +62,5 @@ fclean: clean
 	rm -f $(NAME) $(NAMEE)
 
 re:	fclean all
+
+
